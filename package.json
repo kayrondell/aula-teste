@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "cordova-plugin-firebasex": "^18.0.7"
+  }
+}
